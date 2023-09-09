@@ -1,7 +1,7 @@
 # Drowsiness-detection
 Drowsiness Detection Using CNN and HAAR Cascade Models.
-• In this system, the image of face of the driver is taken through the camera on regular intervals and examine the changes that happen in the eye.
-• These images will be processed through an algorithm which will compare them with the dataset of images. If the comparison matches the predefined percentage of match, then drowsiness is detected and alert is sent to driver.
+ In this system, the image of face of the driver is taken through the camera on regular intervals and examine the changes that happen in the eye.
+ These images will be processed through an algorithm which will compare them with the dataset of images. If the comparison matches the predefined percentage of match, then drowsiness is detected and alert is sent to driver.
 
 SYSTEM ARCHITECTURE
 ![image](https://github.com/VishalKGowda/Drowsiness-Detection-Using-OpenCV/assets/55918199/5b1a10ac-dad0-48f7-8d49-326ce4a651a9)
@@ -30,6 +30,5 @@ EYES CLOSED
 EYES CLOSED FOR MORE THAN 5 SECONDS RESULTING IN AN ALARM SOUND RINGING
 
 
-To run the code all you need to do is run the model.py file
 
 
