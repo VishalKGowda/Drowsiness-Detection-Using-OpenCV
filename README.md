@@ -7,7 +7,7 @@ SYSTEM ARCHITECTURE
 ![image](https://github.com/VishalKGowda/Drowsiness-Detection-Using-OpenCV/assets/55918199/5b1a10ac-dad0-48f7-8d49-326ce4a651a9)
 
 
-IMPLEMENTATION DETAILS
+IMPLEMENTATION DETAILS:
 Step 1 – Take image as input from a camera.
 Step 2 – Detect the face in the image and create a Region of Interest (ROI).
 Step 3 – Detect the eyes from ROI and feed it to the classifier.
